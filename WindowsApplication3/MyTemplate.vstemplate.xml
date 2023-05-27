@@ -1,0 +1,112 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>PETSHOPDB almost FINAL</Name>
+    <Description>Last bugs nalang sirs</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>PETSHOPDB almost FINAL</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="WindowsApplication3.vbproj" File="WindowsApplication3.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalAdmit.vb">FrmAnimalAdmit.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalAdmit.Designer.vb">FrmAnimalAdmit.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalAdmit.resx">FrmAnimalAdmit.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalAdmitUpdate.vb">FrmAnimalAdmitUpdate.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalAdmitUpdate.Designer.vb">FrmAnimalAdmitUpdate.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalAdmitUpdate.resx">FrmAnimalAdmitUpdate.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalDiagnose.vb">FrmAnimalDiagnose.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalDiagnose.Designer.vb">FrmAnimalDiagnose.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalDiagnose.resx">FrmAnimalDiagnose.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalDischarge.vb">FrmAnimalDischarge.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalDischarge.Designer.vb">FrmAnimalDischarge.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAnimalDischarge.resx">FrmAnimalDischarge.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomer.vb">FrmCustomer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomer.Designer.vb">FrmCustomer.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomer.resx">FrmCustomer.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomerDelete.vb">FrmCustomerDelete.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomerDelete.Designer.vb">FrmCustomerDelete.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomerDelete.resx">FrmCustomerDelete.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomerEdit.vb">FrmCustomerEdit.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomerEdit.Designer.vb">FrmCustomerEdit.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmCustomerEdit.resx">FrmCustomerEdit.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpDelete.vb">FrmEmpDelete.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpDelete.Designer.vb">FrmEmpDelete.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpDelete.resx">FrmEmpDelete.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpEdit.vb">FrmEmpEdit.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpEdit.Designer.vb">FrmEmpEdit.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpEdit.resx">FrmEmpEdit.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpReg.vb">FrmEmpReg.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpReg.Designer.vb">FrmEmpReg.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmEmpReg.resx">FrmEmpReg.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmLoginNew.vb">FrmLoginNew.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmLoginNew.Designer.vb">FrmLoginNew.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmLoginNew.resx">FrmLoginNew.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuCashier.vb">FrmMenuCashier.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuCashier.Designer.vb">FrmMenuCashier.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuCashier.resx">FrmMenuCashier.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuClerk.vb">FrmMenuClerk.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuClerk.Designer.vb">FrmMenuClerk.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuClerk.resx">FrmMenuClerk.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuMain.vb">FrmMenuMain.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuMain.Designer.vb">FrmMenuMain.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuMain.resx">FrmMenuMain.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuManagement.vb">FrmMenuManagement.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuManagement.Designer.vb">FrmMenuManagement.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuManagement.resx">FrmMenuManagement.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuVet.vb">FrmMenuVet.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuVet.Designer.vb">FrmMenuVet.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmMenuVet.resx">FrmMenuVet.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmNewPurchase.vb">FrmNewPurchase.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmNewPurchase.Designer.vb">FrmNewPurchase.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmNewPurchase.resx">FrmNewPurchase.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetDelete.vb">FrmPetDelete.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetDelete.Designer.vb">FrmPetDelete.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetDelete.resx">FrmPetDelete.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetEdit.vb">FrmPetEdit.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetEdit.Designer.vb">FrmPetEdit.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetEdit.resx">FrmPetEdit.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetRegistration.vb">FrmPetRegistration.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetRegistration.Designer.vb">FrmPetRegistration.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmPetRegistration.resx">FrmPetRegistration.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProdAdd.vb">FrmProdAdd.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProdAdd.Designer.vb">FrmProdAdd.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProdAdd.resx">FrmProdAdd.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProdUpdate.vb">FrmProdUpdate.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProdUpdate.Designer.vb">FrmProdUpdate.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProdUpdate.resx">FrmProdUpdate.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewProd.vb">FrmViewProd.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewProd.Designer.vb">FrmViewProd.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewProd.resx">FrmViewProd.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewProductsSold.vb">FrmViewProductsSold.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewProductsSold.Designer.vb">FrmViewProductsSold.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewProductsSold.resx">FrmViewProductsSold.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewSales.vb">FrmViewSales.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewSales.Designer.vb">FrmViewSales.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmViewSales.resx">FrmViewSales.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginForm.vb">LoginForm.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginForm.Designer.vb">LoginForm.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginForm.resx">LoginForm.resx</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="false" TargetFileName="app.manifest">app.manifest</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+      <Folder Name="Photos" TargetFolderName="Photos">
+        <ProjectItem ReplaceParameters="false" TargetFileName="Logo__2_-removebg-preview.png">Logo__2_-removebg-preview.png</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

@@ -1,0 +1,71 @@
+C:\Users\Joshua\Desktop\DBTEST\bin\Debug\$safeprojectname$.exe.config
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmLoginNew.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmMenuCashier.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmCustomerDelete.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmEmpDelete.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmMenuClerk.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmMenuMain.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmMenuManagement.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmAnimalAdmitUpdate.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmMenuVet.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmPetDelete.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmAnimalDischarge.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmEmpEdit.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmEmployee.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmProdAdd.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmAnimalAdmit.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmAnimalDiagnose.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmCustomer.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmCustomerEdit.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmViewProductsSold.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmNewPurchase.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmPetEdit.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmPetRegistration.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmViewProd.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmProdUpdate.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.LoginInfo.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.Resources.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\$safeprojectname$.FrmDgvPurchases.resources
+C:\Users\Joshua\Desktop\DBTEST\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\IBM.Data.DB2.dll
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmLoginNew.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuCashier.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerDelete.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpDelete.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuClerk.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuMain.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuManagement.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmitUpdate.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuVet.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetDelete.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDischarge.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpEdit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmployee.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdAdd.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDiagnose.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomer.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerEdit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProductsSold.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmNewPurchase.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetEdit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetRegistration.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProd.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdUpdate.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.LoginInfo.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmDgvPurchases.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.exe.manifest
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.application
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.exe.manifest
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.application

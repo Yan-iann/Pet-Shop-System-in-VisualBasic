@@ -1,0 +1,222 @@
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.exe.manifest
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.application
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\bin\Debug\IBM.Data.DB2.dll
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\Pet Shop.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmLoginNew.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuCashier.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerDelete.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpDelete.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuClerk.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuManagement.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmitUpdate.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuVet.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetDelete.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDischarge.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpEdit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmployee.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdAdd.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDiagnose.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomer.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerEdit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProductsSold.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmNewPurchase.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetEdit.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetRegistration.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProd.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdUpdate.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.LoginInfo.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.FrmDgvPurchases.resources
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\Pet Shop.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.exe.manifest
+C:\Users\Joshua\Desktop\New folder\WindowsApplication3\obj\Debug\WindowsApplication3.application
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.manifest
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.application
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\bin\Debug\IBM.Data.DB2.dll
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmLoginNew.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuCashier.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerDelete.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpDelete.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuClerk.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuManagement.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmitUpdate.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuVet.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetDelete.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDischarge.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpEdit.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmployee.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdAdd.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmit.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDiagnose.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomer.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerEdit.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProductsSold.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmNewPurchase.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetEdit.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetRegistration.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProd.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdUpdate.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.LoginInfo.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmDgvPurchases.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe.manifest
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.application
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFees.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeeUpdate.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeePay.resources
+C:\Users\Joshua\Desktop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewPaidFees.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.manifest
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.application
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\bin\Debug\IBM.Data.DB2.dll
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeePay.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFees.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeeUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmLoginNew.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuCashier.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuClerk.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuManagement.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmitUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuVet.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDischarge.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmployee.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdAdd.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDiagnose.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomer.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewPaidFees.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProductsSold.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmNewPurchase.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetRegistration.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProd.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.LoginInfo.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmDgvPurchases.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe.manifest
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.application
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.CopyComplete
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS6\Final Projects PIS\Pet Shop\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.manifest
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.application
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\IBM.Data.DB2.dll
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeePay.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFees.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeeUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmLoginNew.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuCashier.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuClerk.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuManagement.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmitUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuVet.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDischarge.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmployee.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdAdd.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDiagnose.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomer.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewPaidFees.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProductsSold.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmNewPurchase.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetRegistration.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProd.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.LoginInfo.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmDgvPurchases.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe.manifest
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.application
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.CopyComplete
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe.manifest
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.application
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\bin\Debug\IBM.Data.DB2.dll
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeePay.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFees.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmFeeUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmLoginNew.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuCashier.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuClerk.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuManagement.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmitUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmMenuVet.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetDelete.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDischarge.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmpEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmEmployee.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdAdd.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalAdmit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmAnimalDiagnose.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomer.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmCustomerEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewPaidFees.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProductsSold.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmNewPurchase.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetEdit.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmPetRegistration.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmViewProd.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmProdUpdate.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.LoginInfo.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.FrmDgvPurchases.resources
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe.manifest
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.application
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\Pet Shop.vbproj.CopyComplete
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\user\Documents\Edrian Files\Educational Files\ThirdYear Sy 2021-2022\CCS5\PETSHOP DATABASE And System\Pet Shop\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
